@@ -1,4 +1,4 @@
-package stepDefinitions;
+/*package stepDefinitions;
 
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -86,3 +86,4 @@ public class LoginStepDefinition {
 		driver.findElement(By.xpath("//input[@value= 'Save' and @type ='submit']")).click();
 	}
 	}
+	*/
