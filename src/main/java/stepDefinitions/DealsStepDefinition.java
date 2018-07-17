@@ -1,4 +1,4 @@
-package stepDefinitions;
+/*package stepDefinitions;
 
 import java.util.List;
 
@@ -85,3 +85,4 @@ public class DealsStepDefinition {
     driver.close();
 	}
 }
+*/

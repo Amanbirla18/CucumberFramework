@@ -11,4 +11,4 @@ And user is on homepage
 Then user moves to new deal page
 Then user enter deal details
 | test deal | 1000 | 50 | 50 |
-Then close the browser
+Then close the browser 

@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		 features = "C:/Selenium_Workspace/FreeCRMBDDFramework/src/main/java/Features/deals.feature/" // path of feature files
+		 features = "C:/Selenium_Workspace/FreeCRMBDDFramework/src/main/java/Features/DealsMap.feature" // path of feature files
 		,glue={"stepDefinitions"} // path of step definition files
 //		,plugin = {"html:target/cucumber-html-report", "json:target/cucumber-json-report.json"}
 		,strict = true // it will check if any step is not defined in step definition file 
